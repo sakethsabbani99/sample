@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>Cart</title>
+  <link rel="stylesheet" href="truYumcss.css"></link>
+ </head>
+ <body>
+
+ <div>
+ 
+ <div id="d1">
+
+ <label id="l1">truYum</label>
+ <img src="truYum.png"></img>
+
+ <a href="" class="ins1">cart</a>
+
+ <a href="" class="ins1">Menu</a>
+
+ </div>
+ 
+ <div id="d2">
+ <label id="l10">Cart</label>
+
+ <br></br>
+ <br></br>
+
+ <table>
+ <tr>
+	<td><label id="lbl1">Name</label></td>
+	<td><label id="lbl2">Free Delivery</label></td>
+	<td><label id="lbl3">Price</label></td>
+	<td></td>
+ </tr>
+ <tr>
+	<td><label class="lbl1">Sandwich</label></td>
+	<td><label class="lbl2">Yes</label></td>
+	<td><label class="lbl3">Rs. 99.00</label></td>
+	<td><a class="lbl6" href="">Delete</a></td>
+ </tr>
+ <tr>
+	<td><label class="lbl1">Burger</label></td>
+	<td><label class="lbl2">No</label></td>
+	<td><label class="lbl3">Rs. 129.00</label></td>
+	<td><a class="lbl6" href="">Delete</a></td>
+ </tr>
+ <tr>
+	<td><label class="lbl1">Pizza</label></td>
+	<td><label class="lbl2">No</label></td>
+	<td><label class="lbl3">Rs. 149.00</label></td>
+	<td><a id="lbl6" href="">Delete</a></td>
+ </tr>
+ <tr>
+	<td></td>
+	<td><label id="lbl4">Total</label></td>
+	<td><label id="lbl5">Rs. 377.00</label></td>
+	<td></td>
+ </tr>
+ </table>
+
+ </div>
+
+ <div id="d3">
+ <label id="l3">copyright © 2019</label> 
+ </div>
+
+ </div>
+  
+ </body>
+</html>

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>Edit Item</title>
+  <link rel="stylesheet" href="truYumcss.css"></link>
+ </head>
+ <body>
+ <div>
+
+ <div id="d1">
+
+ <label id="l1">truYum</label>
+
+ <a href="" id="ins1">Menu</a>
+
+ </div>
+
+ <div id="d2">
+ <label id="l6">Edit Menu Item</label>
+
+ <br></br>
+ <br></br>
+
+ <label id="l8" >Name</label>
+ <br>
+ <input id="ip1"></input>
+ <br></br>
+ <br>
+ <table>
+ <tr>
+	<td><label class="l7">Price (Rs.)</label></td>
+	<td><label class="l7">Active</label></td>
+	<td><label class="l7">Date of Launch</label></td>
+	<td><label class="l7">Category</label></td>
+ </tr>
+ <tr>
+	<td><input id="ip2"></input></td>
+	<td id="ip3"><input class="ip3" type="radio" name="any">Yes</input> <input class="ip3" type="radio" name="any">No</input> </td>
+	<td><input id="ip4"></input></td>
+	<td><select id="sel1">
+	    <option>Main Course</option>
+	    <option>Starters</option>
+		<option>Main Course</option>
+		<option>Dessert</option>
+		<option>Drinks</option>
+	    </select></td>
+ </tr>
+ </table>
+
+ <br></br>
+
+ <input  id="ip5" type="checkbox" >Free Delivery</input>
+
+ <br></br>
+ <br>
+
+ <input type="button" value="Save" id="bt1"></input>
+
+ </div>
+
+
+ <div id="d3">
+ <label id="l3">copyright © 2019</label> 
+ </div>
+
+ </div>
+  
+ </body>
+</html>

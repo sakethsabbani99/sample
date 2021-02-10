@@ -1,0 +1,213 @@
+div {height:730px;width:1520px;
+	 margin:0px 0px 0px 0px;
+	 border:1px solid}
+
+#d1 {height:50px;width:1520px;
+     margin:0px 0px 0px 0px;
+	 background-color:navy;
+	 border:0px solid}
+
+#d2 {border:0px solid;
+     height:420px;width:1400px;
+	 margin:50px 0px 0px 100px;
+	 }
+
+#d3 {border:0px solid;
+     height:50px;width:1520px;
+	 margin:160px 0px 0px 0px;
+	 background-color:lightgray;
+	 }
+
+#png {height:30px;width:30px;
+      margin:10px 0px 0px 30px}
+
+#l1 {color:white;
+       float:left;
+       margin:10px 0px 0px 35px;
+	   font-size:25px}
+
+#l2 {font-size:30px}
+
+#l3 {font-size:20px;
+     margin:10px 0px 0px 30px;
+	 float:left}
+
+.ins1 {color:white;
+     font-size:17px;
+	 margin:15px 50px 0px 40px;
+     float:right}
+
+#ins1 {color:white;
+     font-size:17px;
+	 margin:15px 100px 0px 0px;
+     float:right}
+
+strong {margin:20px 60px 20px 0px;
+        font-size:20px;
+		float:left}
+
+
+label {font-size:20px;
+       margin:0px 0px 0px 0px}
+
+#ll1 {font-weight:bold;float:left;}
+
+#ll2 {font-weight:bold;float:right;
+      margin:20px 50px 20px 160px}
+
+#ll3 {font-weight:bold;margin-right:50px}
+
+#ll4 {font-weight:bold;margin-right:50px}
+
+#ll5 {font-weight:bold;margin-right:50px}
+
+#ll6 {font-weight:bold;margin-right:50px}
+
+#ll7 {font-weight:bold;margin-right:50px}
+
+.ll1 {float:left;}
+
+.ll2 {float:right;margin:15px 50px 15px 160px}
+
+.ll3 {margin-right:50px}
+
+.ll4 {margin-right:50px}
+
+.ll5 {margin-right:50px}
+
+.ll6 {margin-right:50px}
+
+.ll7 {margin-right:50px;font-size:18px;color:black}
+
+
+
+
+#le1 {font-size:30px}
+
+#lef1 {font-weight:bold;float:left}
+
+#lef2 {font-weight:bold;margin-left:180px}
+
+#lef3 {font-weight:bold;float:right;margin:20px 0px 20px 60px}
+
+#lef4 {font-weight:bold;margin-left:60px}
+
+#lef5 {font-weight:bold;margin-left:60px}
+
+.lef1 {float:left}
+
+.lef2 {margin-left:180px}
+
+.lef3 {float:right;margin:20px 0px 20px 60px}
+
+.lef4 {margin-left:60px}
+
+.lef5 {margin-left:60px;font-size:18px;color:black}
+
+
+
+#l4 {font-size:35px}
+#l5 {font-size:20px;
+     color:green;
+	 font-weight:bold}
+
+#l6 {font-size:30px}
+
+#ip1 {width:720px;
+      height:20px}
+#ip2 {text-align:right;
+      width:100px;
+	  float:left}
+
+#ip3 {float:left}
+
+.ip3 {height:18px;width:18px}
+
+#ip4 {float:left}
+
+#ip5 {height:18px;
+      width:18px}
+
+#bt1 {height:50px ;
+      width:130px;
+	  background-color:blue;
+	  color:white;
+	  font-weight:bold}
+
+.l7 {margin:0px 100px 0px 0px;
+     font-size:18px;
+	 }
+
+#sel1 {width:150px;
+       height:25px;
+	   float:left}
+#l8 {font-size:18px}
+
+#l9 {font-size:30px}
+
+#sto1 {font-size:20px;
+       color:green;
+	   margin:0px 0px 0px 200px}
+
+.an1 {font-size:18px;
+      color:black}
+
+td {text-align:center}
+
+#lab2 {font-weight:bold;float:left}
+#lab1 {font-weight:bold;float:right;
+       margin-right:50px}
+
+.lab2 {float:right;
+       margin:25px 50px 25px 50px}
+
+#lab3 {font-weight:bold;margin-left:170px}
+
+.lab3 {margin-left:170px}
+
+.lab4 {margin-right:50px}
+#lab5 {font-weight:bold}
+.lab5 {float:left}
+#lab4 {font-weight:bold;margin-right:50px}
+
+#l10 {font-size:30px}
+
+#lbl1 {font-weight:bold;float:left}
+#lbl2 {font-weight:bold;margin-left:180px}
+#lbl3 {font-weight:bold;float:right;margin-right:30px}
+#lbl4 {font-weight:bold;margin-left:180px;float:left}
+#lbl5 {font-weight:bold}
+
+.lbl3 {margin:20px 30px 20px 40px;
+       float:right}
+
+.lbl1 {float:left}
+
+.lbl2 {margin-left:180px;float:left}
+
+.lbl6 {color:black;font-size:18px}
+
+#lbl6 {color:black;font-size:18px}
+
+
+#ct1 {font-size:35px}
+
+#ct2 {font-weight:bold;color:green;font-size:18px;margin-left:200px}
+
+#ctc1 {font-weight:bold;float:left;margin:15px 0px 15px 0px}
+
+#ctc2 {font-weight:bold;float:left;margin-left:180px}
+
+#ctc3 {font-weight:bold;float:right}
+
+.ctc1 {float:left;margin:15px 0px 15px 0px}
+
+.ctc2 {float:left;margin-left:180px}
+
+.ctc3 {float:right;margin-left:40px}
+
+.ctc4 {font-size:18px;color:black;margin-left:40px}
+
+#ctc5 {float:left;font-weight:bold;margin-left:180px;margin-top:10px}
+
+#ctc6 {float:right;font-weight:bold;margin-top:10px}
